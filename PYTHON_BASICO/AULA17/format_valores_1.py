@@ -17,6 +17,6 @@ num_2 = 3
 divisao = num_1/num_2
 
 nome = 'Rafael Alves'
-# para indicar para o interpretador do python que essa variável é
-# é uma string, colocasse o s após o símbolo de dois pontos (:).
+# para indicar para o interpretador do python que essa variável
+# é uma 'string', colocasse o s após o símbolo de dois pontos (:).
 print(f'{nome:s}')
