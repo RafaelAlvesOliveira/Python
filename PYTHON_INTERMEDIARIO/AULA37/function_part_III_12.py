@@ -1,6 +1,5 @@
 """
-Funções (def) em Python - *args **kwargs -
-Aula 16 (Parte 3)
+Funções (def) em Python - *args **kwargs - (Parte 3)
 """
 
 
