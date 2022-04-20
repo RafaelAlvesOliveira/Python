@@ -12,6 +12,7 @@ def func(a1, a2, a3, a4, a5, nome=None, a6=None):
     print(a1, a2, a3, a4, a5, nome, a6)
     return nome, a6
 
+
 # Para que a variável retorne algum valor deve
 # ter a palavra 'return' e o argumento que deve ser retornado.
 # Um ou mais argumentos podem ser retornados.
