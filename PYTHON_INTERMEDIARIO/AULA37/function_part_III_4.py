@@ -22,7 +22,7 @@ print(*lista, sep='-')
 
 # O símbolo '*' na frente do nome lista serve
 # para desempacotar cada valor na lista
-# A função 'print' tem o argumento 'sep',
+# A função 'print' tem o argumento 'sep.',
 # usado para determinar como será feita a
 # separação que deve haver entre os
 # valores da lista.
