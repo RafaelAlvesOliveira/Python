@@ -17,7 +17,7 @@ num_2 = 3
 divisao = num_1/num_2
 # o ponto indica casa decimais, o '2' indica quantas casas depois da vírgula e o 'f' é de float
 print('{:.2f}'.format(divisao))
-# pode ser feita a mesma coisa usando f strings
+# pode ser feita a mesma coisa usando f "strings"
 print( f'{divisao:.2f}')
 
 

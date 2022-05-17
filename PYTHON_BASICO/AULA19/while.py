@@ -1,5 +1,5 @@
 """
-while em Python
+"While" em Python
 utilizando para realziar ações enquanto uma condição for verdadeira
 
 Requisitos: Entender condições e operadores

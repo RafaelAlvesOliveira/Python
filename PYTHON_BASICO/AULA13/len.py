@@ -1,4 +1,4 @@
-# Len ser para contar quantos caracteres há em um determinado valor
+# Len ser para contar quantos caracteres há num determinado valor
 # armazenado em uma variável
 
 usuario = input('Digite seu usuário: ')

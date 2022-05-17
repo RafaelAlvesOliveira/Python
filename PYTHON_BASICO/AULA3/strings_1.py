@@ -6,5 +6,5 @@ print("Essa é uma 'string' (str).")
 print('Essa é uma "string" (str).')
 # Outro caractere que pode ser usado é a barra invertida, antes e depois do texto que se quer destacar.
 print("Esse é meu \"texto\" (str).")
-# Isso pode ser feito da mesma forma, só que usando aspas simples.
+# Isso pode ser feito da mesma forma, contudo usando aspas simples.
 print('Esse é meu \'texto\' (str).')

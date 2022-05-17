@@ -13,7 +13,7 @@ num_2 = 2  # int
 
 expressao = (num_1 == num_2)
 print(expressao)
-# == serve para checar se o valores são iguais e o mesmo tipo
+# == serve para checar se o valor são iguais e o mesmo tipo
 
 expressao_1 = (num_1 > num_2)
 print(expressao_1)
@@ -29,13 +29,13 @@ print(expressao_3)
 
 expressao_4 = (num_1 <= num_2)
 print(expressao_4)
-# <= serve para checar se a variável da esquerda é menor ou igual a variável da direita
+# "<=" serve para checar se a variável da esquerda é menor ou igual à variável da direita
 
 var_1 = 'Rafael'
 var_2 = 'Rafa'
 expressao_5 = (var_1 != var_2)
 print(expressao_5)
-# != serve para checar se a variável da esquerda é diferente da variável da direita
+# != serve para checar se a variável da esquerda difere da variável da direita
 
 
 
