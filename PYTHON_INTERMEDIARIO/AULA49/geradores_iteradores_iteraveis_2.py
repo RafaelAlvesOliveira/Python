@@ -3,7 +3,7 @@ Geradores, iteradores e iteráveis
 """
 
 # A maneira de saber se um determinado objeto
-# ou item é um iterador
+# ou ‘item’ é um iterador
 
 lista = [0, 1, 2, 3, 4, 5]
 
