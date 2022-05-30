@@ -4,7 +4,7 @@ and, or, not
 in e not in
 """
 # O operador lógico "in" serve para verificar se um determinado parâmetro
-# existe dentro do valor que está contido em uma determinada variável.
+# existe no valor contido numa determinada variável.
 
 nome = 'Rafael Alves'
 

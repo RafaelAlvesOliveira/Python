@@ -8,13 +8,13 @@ imc = peso / (altura ** 2)
 print(nome, 'tem', idade, 'de idade e seu imc é', imc)
 
 print(f'{nome} tem {idade} anos de idade e seu imc é {imc:.2f}')
-# Essa é outra maneira de imprimir variáveis na tela usando f string
-# Dentro da variável imc no print é possível controlar a quantidade
-# de casas decimais para isso é só incluir ":.nºcdf"
+# Essa é outra maneira de imprimir variáveis na tela usando f "string"
+# Na variável 'imc' no print é possível controlar a quantidade
+# de casas decimais para isso é só incluir ":.n.ºcdf"
 # nºcd é a abreviatura para número de casas decimais
 
 print('{} tem {} anos e seu imc é {:.2f}'.format(nome, idade, imc))
-# "format" é outra forma de imprimir variáveis dentro da função print
+# "format" é outra forma de imprimir variáveis na função print
 # para isso é necessário colocar as variáveis na ordem em que devem aparecer
 
 print('{2} {0} {0} tem {1} anos e seu imc é {2}'.format(nome, idade, imc))
@@ -22,5 +22,5 @@ print('{2} {0} {0} tem {1} anos e seu imc é {2}'.format(nome, idade, imc))
 # ordem em que foram declaradas, e também pode-se repetir a mesma variável várias vezes.
 
 print('{n} tem {i} anos e seu imc é {im}'.format(n=nome, i=idade, im=imc))
-# Também é possível nomear os parâmetros dentro da função format, e já que eles estão
+# Também é possível nomear os parâmetros na função format, e já que eles estão
 # nomeados, podem ser colocados em qualquer ordem e/ou repetir as variáveis
