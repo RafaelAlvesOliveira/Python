@@ -27,6 +27,3 @@ class Endereco:
 
     def __del__(self):
         print(f'{self.cidade}/{self.estado} foi apagado.')
-
-
-

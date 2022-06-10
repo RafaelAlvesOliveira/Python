@@ -2,7 +2,7 @@
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/PYTHON_INTERMEDIARIO/AULA66/formata" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PYTHON_INTERMEDIARIO/AULA68/pacote1" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.7" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
