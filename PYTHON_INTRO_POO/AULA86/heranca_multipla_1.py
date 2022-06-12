@@ -18,7 +18,7 @@ class C(A):
         print('Falando... Estou em C.')
 
 
-class D(B, C):
+class D(C, B):
     pass
 
 
