@@ -1,0 +1,30 @@
+{
+    "version": "0.2",
+    "ignorePaths": [],
+    "dictionaryDefinitions": [],
+    "dictionaries": [],
+    "words": [
+        "Adiciona",
+        "apaga",
+        "apagar",
+        "aponta",
+        "coisa",
+        "concatena",
+        "copiado",
+        "Cuidados",
+        "escolhido",
+        "estende",
+        "ignorenome",
+        "ignoreprint",
+        "índice",
+        "João",
+        "limpa",
+        "mesmo",
+        "mutáveis",
+        "noutra",
+        "Removido",
+        "valro"
+    ],
+    "ignoreWords": [],
+    "import": []
+}

@@ -5,5 +5,15 @@
         "condição",
         "Nenhuma",
         "satisfeita"
-    ]
+    ],
+    "cSpell.ignoreWords": [
+        "Nunca",
+        "Quer",
+        "chegar",
+        "inválido",
+        "inválidos",
+        "permitidos",
+        "validos"
+    ],
+    "python.analysis.typeCheckingMode": "basic"
 }
