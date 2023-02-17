@@ -11,7 +11,7 @@ Faça a contagem de tentativas do seu usuário.
 
 import os
 
-palavra_secreta = 'desespero'
+palavra_secreta = 'paraíso'
 letras_acertadas = ''
 numero_tentativas = 0
 

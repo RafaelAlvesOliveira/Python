@@ -1,6 +1,6 @@
 """
 Cuidados com dados mutáveis
-= - copiado o valro (imutáveis)
+= - copiado o valor (imutáveis)
 = - aponta para o mesmo valor na memória (mutável)
 """
 

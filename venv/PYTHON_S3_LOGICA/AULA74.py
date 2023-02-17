@@ -24,7 +24,7 @@ texto = 'Rafael Alves'  # iterável
 #     except StopIteration:
 #         break
 
-# Isso é o que o "for" faz por debaixo por panos.
+# Isso é o que o "for" faz por debaixo dos panos.
 
 for letra in texto: 
     print(letra)
