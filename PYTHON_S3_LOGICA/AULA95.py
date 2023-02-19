@@ -7,6 +7,8 @@ python -u (unbuffered)
     # sem que venha a ser armazenada no buffer.
 python -m mod (lib mod como script)
 python -c 'cmd' (comando)
+    # Serve para executar um comando do Python entre
+    # aspas simples.
 python -i mod.py (interativo com mod)
 
 The Zen of Python, por Tim Peters
