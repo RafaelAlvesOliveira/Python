@@ -49,7 +49,7 @@ digito_2 = digito_2 if digito_2 <= 9 else 0
 cpf_gerado_pelo_calculo = f'{nove_digitos}{digito_1}{digito_2}'
 # print(cpf_gerado_pelo_calculo)
 
-if cpf_enviado_usuario == cpf_gerado_pelo_calculo:
-    print(f'{cpf_enviado_usuario} é válido')
+if cpf_enviado_usuario 1 == cpf_gerado_pelo_calculo:
+    print(f'{cpf_enviado_usuario 1} é válido')
 else:
     print('CPF Inválido')
