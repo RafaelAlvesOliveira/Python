@@ -20,6 +20,7 @@ def ordena(aluno):
 
 
 alunos_agrupados = sorted(alunos, key=ordena)
+# alunos_agrupados = sorted(alunos, key=lambda a: a['nota'])
 grupos = groupby(alunos_agrupados, key=ordena)
 
 for chave, grupo in grupos:
